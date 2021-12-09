@@ -19,6 +19,7 @@ testDuplicates();
 
 
 
+
     public void testMixed(){
     	int[] arr = new int[5];
         arr[0] = 8;

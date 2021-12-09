@@ -16,8 +16,7 @@ testNegative();
 }
     public testSelectionSort() {
     }
-    
-
+  
     public void testPositive(){
         int[] arr = new int[5];
         arr[0] = 8;
@@ -59,5 +58,4 @@ testNegative();
         assertEquals("Wrong!!", Sortedarr, sorted);
         /** Test data contains negative values only **/
     }
-
 }
